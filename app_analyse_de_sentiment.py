@@ -6,7 +6,7 @@ warnings.filterwarnings("ignore")
 
 def main():
     st.title("Analyse du sentiment d'un texte by KidsInnov Class")
-    # st.image("analyse.png")
+    st.image("analyse.png")
     analyseur()
 
 # Fonction de classification
